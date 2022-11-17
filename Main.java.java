@@ -4,7 +4,6 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 
-
 public class Main
 {
    public static boolean authorization(int n, String loginUser, String passwordUser) {
